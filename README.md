@@ -6,19 +6,19 @@ I will try to keep it updated.
 
 
 ---
-####Table of Contents
+####Table of Contents  
 The topics are in alphabetical order.
-
-[Bluetooth](#bluetooth)
-[Debugging](#debugging)
-[Distribution](#distribution)
-[Image loading](#image-loading)
-[Inspiration apps](#inspiration-apps)
-[Plugins](#plugins)
-[REST](#rest)
-[RX](#rx)
-[Typography](#typography)
-[UI](#ui)
+  
+[Bluetooth](#bluetooth)  
+[Debugging](#debugging)  
+[Distribution](#distribution)  
+[Image loading](#image-loading)  
+[Inspiration apps](#inspiration-apps)  
+[Plugins](#plugins)  
+[REST](#rest)  
+[RX](#rx)  
+[Typography](#typography)  
+[UI](#ui)  
 [View injection](#view-injection)
 
 ---

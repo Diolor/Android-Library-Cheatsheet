@@ -41,7 +41,7 @@ for k,v in sorted(data.items()):
 with open("README.md", "wb") as w:
 	w.write(header)
 	w.write("---")
-	w.write("\n".join(toc))
+	w.write("  \n".join(toc))
 	w.write("\n\n---")
 	w.write("\n".join(body))
 
