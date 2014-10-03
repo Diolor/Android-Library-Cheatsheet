@@ -31,7 +31,7 @@ Bluetooth:
 Debugging:
     - https://github.com/romainguy/ViewServer
 
-View injection:
+Injection:
     - https://github.com/square/dagger
     - https://github.com/JakeWharton/butterknife
     - https://github.com/roboguice/roboguice

@@ -13,13 +13,13 @@ The topics are in alphabetical order.
 [Debugging](#debugging)  
 [Distribution](#distribution)  
 [Image loading](#image-loading)  
+[Injection](#injection)  
 [Inspiration apps](#inspiration-apps)  
 [Plugins](#plugins)  
 [REST](#rest)  
 [RX](#rx)  
 [Typography](#typography)  
-[UI](#ui)  
-[View injection](#view-injection)
+[UI](#ui)
 
 ---
 ##Bluetooth
@@ -39,6 +39,12 @@ The topics are in alphabetical order.
 + **[ImageLoader](https://github.com/novoda/ImageLoader)** by **novoda**
 + **[ion](https://github.com/koush/ion)** by **koush**
 + **[picasso](https://github.com/square/picasso)** by **square**
+
+##Injection
+
++ **[butterknife](https://github.com/JakeWharton/butterknife)** by **JakeWharton**
++ **[dagger](https://github.com/square/dagger)** by **square**
++ **[roboguice](https://github.com/roboguice/roboguice)** by **roboguice**
 
 ##Inspiration apps
 
@@ -77,9 +83,3 @@ The topics are in alphabetical order.
 + **[android-circlebutton](https://github.com/markushi/android-circlebutton)** by **markushi**
 + **[android-times-square](https://github.com/square/android-times-square)** by **square**
 + **[floatlabelededittext](https://github.com/wrapp/floatlabelededittext)** by **wrapp**
-
-##View injection
-
-+ **[butterknife](https://github.com/JakeWharton/butterknife)** by **JakeWharton**
-+ **[dagger](https://github.com/square/dagger)** by **square**
-+ **[roboguice](https://github.com/roboguice/roboguice)** by **roboguice**
