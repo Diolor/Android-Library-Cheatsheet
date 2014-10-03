@@ -1,0 +1,59 @@
+# Don't bother about sorting it out. The converter will do that for you.
+
+UI:
+    - https://github.com/castorflex/SmoothProgressBar
+    - https://github.com/Diolor/Swipecards
+    - https://github.com/wrapp/floatlabelededittext
+    - https://github.com/nhaarman/ListViewAnimations
+    - https://github.com/astuetz/PagerSlidingTabStrip
+    - https://github.com/ManuelPeinado/FadingActionBar
+    - https://github.com/square/android-times-square
+    - https://github.com/markushi/android-circlebutton
+    - https://github.com/jfeinstein10/SlidingMenu
+
+Image loading:
+    - https://github.com/square/picasso
+    - https://github.com/koush/ion
+    - https://github.com/novoda/ImageLoader
+
+
+REST:
+    - https://github.com/square/okhttp
+    - https://github.com/square/retrofit
+    - https://github.com/FasterXML/jackson
+
+Typography:
+    - https://github.com/chrisjenx/Calligraphy
+
+Bluetooth:
+    - https://github.com/AltBeacon/android-beacon-library
+
+Debugging:
+    - https://github.com/romainguy/ViewServer
+
+View injection:
+    - https://github.com/square/dagger
+    - https://github.com/JakeWharton/butterknife
+    - https://github.com/roboguice/roboguice
+
+
+Plugins:
+    - https://github.com/evant/gradle-retrolambda
+    - https://github.com/joelittlejohn/jsonschema2pojo
+    - https://github.com/eveliotc/gradleplease-workflow
+    - https://github.com/tizionario/AndroidDrawableFactory
+
+
+RX:
+   - https://github.com/mcharmas/Android-ReactiveLocation 
+
+
+Distribution:
+    - https://github.com/emmaguy/clean-status-bar
+
+
+Inspiration apps:
+    - https://github.com/romainguy/google-io-2014
+    - https://github.com/google/iosched
+
+
