@@ -74,6 +74,7 @@ The topics are in alphabetical order.
 
 ##UI
 
++ **[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)** by **daimajia**
 + **[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)** by **ManuelPeinado**
 + **[ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)** by **nhaarman**
 + **[PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)** by **astuetz**
